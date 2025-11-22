@@ -3,6 +3,8 @@
 ## Description
 Ce projet fait [expliquer en 2 lignes ce que vous faites].
 
+## database : https://www.data.gouv.fr/api/1/datasets/r/adba3d85-ad73-41d9-b152-e0f3f8153db5
+
 ### Morbidité hospitalière
 #### Description
 Il s'agit des données sur les hospitalisations en court séjour survenues entre 2018 et 2022. Ces tableaux ont été réalisés à partir des données hospitalières (PMSI MCO) produites par l’Agence technique de l’information sur l’hospitalisation (ATIH). Ils complètent la série de données annuelles mises à disposition sur le site data.Drees depuis 2010, pouvant être déclinés au niveau national, régional et départemental.
