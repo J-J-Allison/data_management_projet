@@ -17,3 +17,7 @@ Répartition des séjours dans les établissements de soins de courte durée (MC
 Répartition des séjours dans les établissements de soins de courte durée (MCO) selon la durée du séjour et la pathologie traitée et durée moyenne de séjour
 Taux de recours aux établissements de soins de courte durée (MCO) selon le sexe, l’âge des patients et la pathologie traitée
 Les données de ces tableaux sont disponibles en téléchargement direct aux formats csv, json ou parquet. Chaque tableau est consolidé dans un fichier unique qui regroupe les informations des départements, régions, et de la France.
+
+
+Dans la première phase, nous faisont une analyse complète de la base de données en utilisant pandas. Nous voulons savoir la dimensions du tableaux, le nombre de regroupement possible (par pathologie, par age du patient, par année, par département ....)
+Nous devons aussi connaître le type de chaque données, nettoyer la base et voir les valeurs nulles.
